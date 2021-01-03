@@ -5,7 +5,7 @@ package com.cedaniel200.app.calculo;
 // comentari brank1
 // comentari2 branca1
 // comentari master després rebase
-// comentaribranca branca2
+// master branca2
 
 
 public class Suma {

@@ -1,7 +1,7 @@
 package com.cedaniel200.app.calculo;
 
 
-//comentari segon commit
+//comentari tercer commit
 
 public class Suma {
     public int sumar(int primerNumero, int segundoNumero){

@@ -12,7 +12,7 @@ package com.cedaniel200.app.calculo;
 // comentari master
 // comentari master no branca 3
 // comentari 3 branca 3 no està a la master
-
+// canvi x pujar al git-hub
 
 public class Suma {
     public int sumar(int primerNumero, int segundoNumero) {

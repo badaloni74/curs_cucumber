@@ -10,7 +10,6 @@ package com.cedaniel200.app.calculo;
 // comentari branca3
 // comentari2 branca3
 // comentari master
-
 // comentari master no branca 3
 
 
